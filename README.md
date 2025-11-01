@@ -36,4 +36,11 @@
     <td>TypeScript</td>
     <td>/two_sum/TypeScript/main.ts</td>
   </tr>
+  <tr>
+    <td>2.Add Two Numbers</td>
+    <td>Medium</td>
+    <td><a href="https://leetcode.com/problems/add-two-numbers/description/">Link</a></td>
+    <td>Java</td>
+    <td>/add_two_numbers/Java/Main.java</td>
+  </tr>
 </table>    
