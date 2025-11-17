@@ -1,4 +1,4 @@
-## Solved Problems 
+## Solved Problems  
 
 <table>
   <tr>
